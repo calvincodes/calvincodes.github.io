@@ -27,8 +27,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://calvincodes.github.io/home/about/</guid>
-      <description>Biography I am currently enrolled as a graduate student in Computer Science at the University of Wisconsin-Madison. Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt. Ltd. for 3 years, with a key focus on highly available and scalable services.
-I have hands-on experience working with Java, Play Framework, Tomcat, Maven, MySQL, Spring, Hibernate &amp;amp; RabbitMQ, and am also fluent in C &amp;amp; C++.</description>
+      <description>Biography I am currently working as a Backend Software Engineering Intern at Sumo Logic. I am a part of their core-platform team which handles the all the incoming API calls and the security aspect of the gateway to Sumo&amp;rsquo;s product.
+I am enrolled as a graduate student in Computer Science at the University of Wisconsin-Madison and will be graduating by December 2019.
+Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt.</description>
     </item>
     
     <item>
@@ -64,9 +65,9 @@ I have hands-on experience working with Java, Play Framework, Tomcat, Maven, MyS
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://calvincodes.github.io/home/projects/</guid>
-      <description>Present Sir - Android App (Independent Project) (Concept Video)
- 1000+ downloads. Allows students to create customized class schedule &amp;amp; enable attendance tracking. Used SharedPreferences APIs to create a local database and LinearLayout view group for the user interface.   Speech based Information Retrieval IVR System (Bachelor Thesis Project)
- Responds to inquiries related to the market price of various vegetables in the regional Assamese language. Used morphological image processing techniques in the spoken term detection from continuous speech.</description>
+      <description>Sign Language to Text Converter from live video (Project Website)
+ Detects hand gestures in a live video, identifies if it represents an ASL symbol, and prints it on screen. Primarily uses convolutional neural network and frameworks like TensorFlow, Theano, and Keras.   Present Sir - Android App (Independent Project) (Concept Video)
+ 1000+ downloads. Allows students to create customized class schedule &amp;amp; enable attendance tracking. Used SharedPreferences APIs to create a local database and LinearLayout view group for the user interface.</description>
     </item>
     
     <item>
