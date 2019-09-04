@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://calvincodes.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://calvincodes.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,18 +24,18 @@
     <item>
       <title></title>
       <link>https://calvincodes.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/about/</guid>
-      <description>Biography I am currently working as a Backend Software Engineering Intern at Sumo Logic. I am a part of their core-platform team which handles all the incoming API calls and the security aspect of the gateway to Sumo&amp;rsquo;s product.
-I am enrolled as a graduate student in Computer Science at the University of Wisconsin-Madison and will be graduating by December 2019.
+      <description>Biography I am enrolled as a graduate student in Computer Science at the University of Wisconsin-Madison and will be graduating by December 2019.
+During summer 2019, I worked as a Backend Software Engineering Intern at Sumo Logic. I was a part of their core-platform team which handles all the incoming API calls and the security aspect of the gateway to Sumo&amp;rsquo;s product.
 Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt.</description>
     </item>
     
     <item>
       <title>Skills</title>
       <link>https://calvincodes.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/skills/</guid>
       <description></description>
@@ -53,7 +53,7 @@ Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt
     <item>
       <title>Academic</title>
       <link>https://calvincodes.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -62,7 +62,7 @@ Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt
     <item>
       <title>Projects</title>
       <link>https://calvincodes.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/projects/</guid>
       <description>Sign Language to Text Converter from live video (Project Website)
@@ -73,7 +73,7 @@ Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt
     <item>
       <title>Awards &amp; Publications</title>
       <link>https://calvincodes.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/publications/</guid>
       <description>Spoken term detection from continuous speech using ANN posteriors and image processing techniques. Shankar, Ravi; Jain, Arpit; K T, Deepak; C M, Vikram; Prasanna, S R M; 2016 Twenty Second National Conference on Communication (NCC), Guwahati, India A Robust Reliable and Low Complexity on chip f-QRS Detection and Identification Architecture for Remote Personalized Health Care Applications.Vemishetty, Naresh; Jain, Arpit; Amber, Aashish; Maheshwari, Sidharth; Jagirdar, Agathya; Acharyya, Amit; Journal of Low Power Electronics 11, 387-400 (2015) (Best Video Demo Award) MedAssist : Prescription Reminder for the elderly.</description>
@@ -82,7 +82,7 @@ Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt
     <item>
       <title>Contact</title>
       <link>https://calvincodes.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/contact/</guid>
       <description></description>
@@ -91,7 +91,7 @@ Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt
     <item>
       <title>Selected Publications</title>
       <link>https://calvincodes.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/publications_selected/</guid>
       <description></description>
@@ -100,7 +100,7 @@ Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt
     <item>
       <title>Selected Talks</title>
       <link>https://calvincodes.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/talks_selected/</guid>
       <description></description>
@@ -109,7 +109,7 @@ Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://calvincodes.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/talks/</guid>
       <description></description>
@@ -118,7 +118,7 @@ Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt
     <item>
       <title>Recent Posts</title>
       <link>https://calvincodes.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/posts/</guid>
       <description></description>
@@ -127,7 +127,7 @@ Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt
     <item>
       <title>Custom Section</title>
       <link>https://calvincodes.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -137,7 +137,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Tags</title>
       <link>https://calvincodes.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/tags/</guid>
       <description></description>
@@ -146,7 +146,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Search</title>
       <link>https://calvincodes.github.io/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0500</pubDate>
       
       <guid>https://calvincodes.github.io/home/search/</guid>
       <description></description>
